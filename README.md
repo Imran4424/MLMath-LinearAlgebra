@@ -18,6 +18,21 @@
     - Euclidean Distance: The L2 norm of the difference between two vectors, representing the shortest straight-line distance between them.
     - Cosine Similarity: Measures the cosine of the angle between two vectors, often used for high-dimensional, sparse data like text. A cosine similarity of 1 means the vectors point in the same direction.
     - Haversine Distance: Specifically used for navigation on a sphere, it measures the shortest distance between two points on the surface of a sphere given their longitudes and latitudes.
-- The cartesian coordinate system.
+- The Cartesian Coordinate System.
+  - Quadrants: The four areas created by the axes are called quadrants, each with its own combination of positive and negative signs for the x and y coordinates.
+    - Quadrant I: (+x, +y)
+    - Quadrant II: (-x, +y)
+    - Quadrant III: (-x, -y)
+    - Quadrant IV: (+x, -y)
+- Basic Trigonometry
+  - Sine
+  - Cosine
+  - Tangent
+  - And their reciprocals
+- The Pythagorean Theorem
+- Orthogonality and Perpendicularity in Vectors
+
+
+
 
 
