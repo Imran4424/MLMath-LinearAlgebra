@@ -12,4 +12,6 @@
     - L1 Norm (Manhattan distance): The sum of the absolute values of the vector's components. It's the distance a taxi would travel in a grid-like city.
     - L2 Norm (Euclidean distance): The square root of the sum of the squared values of the vector's components. This is the standard "straight-line" distance 
   - Distance measures quantify how far apart two vectors are from each other.
+    - A function that quantifies the separation between two vectors or points
+    - The distance between two vectors is zero only if the vectors are identical, it is symmetric $(d(x,y)=d(y,x))$, and it satisfies the triangle inequality (the distance between two points is no more than the sum of the distances from those points to a third point).
 
